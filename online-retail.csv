@@ -1,0 +1,5 @@
+Invoice no,stock code,Description,quantity,invoice date,unitprice,customerid,country
+536365,85123A,diff,6,1/12/22 08-21,2.55,17850,United kingdom
+536365,85123A,diff,7,1/12/22 08-20,2,17850,United kingdom
+536365,85123A,diff,8,1/12/22 08-19,1,17850,United kingdom
+536365,85123A,diff,9,1/12/22 08-18,1.55,17850,United kingdom

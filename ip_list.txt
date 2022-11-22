@@ -1,0 +1,3 @@
+ipaddress1 = 123.10.10.234
+ipaddress2 = 192.168.2.11
+python code 
